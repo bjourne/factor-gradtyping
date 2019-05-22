@@ -12,6 +12,7 @@ IN: scratchpad save
 ```
 Replace `/path/to/` with the real path to these files. Exit Factor
 using `CTRL-D`.
+
 4. Run one of the benchmarks by issuing the shell command
 ```
 $ ./factor -e="USE: benchmark 34 \"sieve\" run-bench"
