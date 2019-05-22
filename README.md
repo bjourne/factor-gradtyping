@@ -1,2 +1,3 @@
-# factor-gradtyping
-Gradual typing in Factor
+# Gradual typing in Factor
+
+Supplementary code to my essay.
